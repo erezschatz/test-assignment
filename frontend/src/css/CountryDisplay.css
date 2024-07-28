@@ -1,0 +1,18 @@
+.CountryDisplay.hideDisplay {
+    display: none;
+}
+
+.CountryDisplay .displayGrid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+  }
+
+.CountryDisplay ul {
+    list-style-type: none;
+    line-height: 2rem;
+}
+
+.CountryDisplay img {
+    margin-top: 1rem
+}
+
